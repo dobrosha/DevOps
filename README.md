@@ -1,2 +1,2 @@
 # DevOps
-DevOps projects in school21
+Completed DevOps projects in school21 🎉
